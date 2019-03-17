@@ -1,4 +1,4 @@
-python-parking-lot-problem
+Python-Parking-Lot-Problem
 This project is the object-orient solution of the parking lot problem
 
 The grammer version is 2.7
